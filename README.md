@@ -2,6 +2,8 @@
 
 ## 🎯 项目简介
 
+【基于 YOLOv8 的 CYaRon！成员检测识别系统】 https://www.bilibili.com/video/BV1GBaHzUE91/?share_source=copy_web&vd_source=ffa6a4083c5cc7838aa9afff5b06763a
+
 本项目实现了基于YOLOv8的Love Live动漫角色识别系统，专门针对三个主要角色进行精确检测：
 - **You Watanabe** (渡边曜)
 - **Chika Takami** (高海千歌) 
