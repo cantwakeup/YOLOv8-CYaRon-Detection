@@ -1,0 +1,49 @@
+# 大文件和数据集
+*.zip
+*.pt
+yolo*.pt
+yolov8*.pt
+yolo11*.pt
+aqours_dataset.zip
+
+# 训练输出和结果（完全排除）
+runs/
+# dataset/ - 保留数据集，用户要上传
+
+# 测试输出
+test_for_joy/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 临时文件
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Python虚拟环境
+venv/
+env/
+.env
+
+# IDE文件
+.vscode/
+.idea/
+*.iml
+
+# 系统文件
+Thumbs.db
+.directory
+
+# 大模型权重文件
+*.pth
+*.ckpt
+*.safetensors
+
+# 训练日志
+wandb/
+tensorboard/
